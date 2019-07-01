@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="JQuery-UI" type="javaScript">
+    <properties>
+      <option name="frameworkName" value="jQuery" />
+      <option name="frameworkVersion" value="1.12.1" />
+    </properties>
+    <CLASSES>
+      <root url="file://D:/jquery-ui.min.js" />
+    </CLASSES>
+    <DOCUMENTATION>
+      <root url="http://api.jquery.com" />
+    </DOCUMENTATION>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
